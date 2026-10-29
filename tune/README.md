@@ -16,6 +16,10 @@ The `tune` plugin implements XMPP User Tune support using PEP:
 * playerctl
 * MPRIS-compatible Player
 
+## Installation
+
+`/plugins install https://raw.githubusercontent.com/profanity-im/community-plugins/refs/heads/main/tune/tune.lua`
+
 ## Commands
 
 | Command | Description |

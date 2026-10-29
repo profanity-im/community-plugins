@@ -24,6 +24,10 @@ And with `/pics open` can open your file manager and browse through all pictures
 * `curl` for asynchronous downloads.
 * A file manager or image viewer (`nautilus`, `feh`, `xdg-open`).
 
+## Installation
+
+`/plugins install https://raw.githubusercontent.com/profanity-im/community-plugins/refs/heads/main/pics/pics.lua`
+
 ## Commands
 
 | Command | Description |
