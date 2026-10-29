@@ -2,6 +2,13 @@
 
 This repository contains community maintained Lua plugins.
 
+## Available Plugins
+
+| Plugin | Description | XEP | Maintainers / Contributors |
+| :--- | :--- | :--- | :--- |
+| pics | Automatically download and organize image URLs received in chats into folders | - | [@jubalh](https://github.com/jubalh) |
+| tune | Publish local media playback via MPRIS and displays contacts' currently playing music | [XEP-0118](https://xmpp.org/extensions/xep-0118.html) (User Tune) | [@jubalh](https://github.com/jubalh) |
+
 ## Installation & Usage
 
 ### Installing a Plugin
