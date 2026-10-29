@@ -9,17 +9,14 @@ This repository contains community maintained Lua plugins.
 | pics | Automatically download and organize image URLs received in chats into folders | - | [@jubalh](https://github.com/jubalh) |
 | tune | Publish local media playback via MPRIS and displays contacts' currently playing music | [XEP-0118](https://xmpp.org/extensions/xep-0118.html) (User Tune) | [@jubalh](https://github.com/jubalh) |
 
-## Installation & Usage
+## Installation and Usage
 
-### Installing a Plugin
-You can install a plugin directly inside Profanity using:
-
-```text
-/plugins install /path/to/plugin.lua
-```
-
-### Loading and Managing Plugins
 Inside Profanity:
+
+* **Install a plugin:**
+  ```text
+  /plugins install /path/to/plugin.lua
+  ```
 * **Load a plugin:**
   ```text
   /plugins load <plugin>.lua
